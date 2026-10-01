@@ -1,0 +1,1 @@
+podman run -p 8080:8080 e23c81a5f59c 
